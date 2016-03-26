@@ -1,4 +1,21 @@
 body {
   background-color: #BADA55;
   color: #333333;
+
+  h1{
+    margin: 0;
+    display: block;
+    margin: 0 auto;
+    width: 50%;
+  }
+
+  .main-content{
+    display: block;
+    max-width: 600px;
+    box-sizing: border-box;
+    padding: 50px;
+    height: 2000px;
+    margin: 0 auto;
+    background-color: #26abd2;
+  }
 }
